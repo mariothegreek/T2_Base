@@ -29,7 +29,6 @@ public class Ejercicio5 {
             }
         }else{
             System.out.println("El número no tiene 4 dígitos");
-
         }
     }
 }
