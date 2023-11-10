@@ -24,6 +24,7 @@ public class Ejercicio6 {
 
 
         }else System.out.println("Alguno de los números no está entre -100 y 100");
+        
 
     }
 
